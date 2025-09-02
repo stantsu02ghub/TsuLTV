@@ -119,7 +119,6 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     },
-    }
 };
 
 // 定义合并方法
